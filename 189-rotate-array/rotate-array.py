@@ -27,3 +27,6 @@ def rotate_arr(nums, k):
         nums[left], nums[right] = nums[right], nums[left]
         left += 1
         right -= 1
+
+# Space: O(1)
+# Time: O(N) <-- check this
