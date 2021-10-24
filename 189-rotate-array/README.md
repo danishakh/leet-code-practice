@@ -1,4 +1,4 @@
-# 189. Rotate Array
+# 189. Rotate Array - MEDIUM
 
 Given an array, rotate the array to the right by k steps, where k is non-negative.
 

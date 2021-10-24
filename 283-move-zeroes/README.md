@@ -1,4 +1,4 @@
-# 283. Move Zeros
+# 283. Move Zeros - EASY
 
 Given an integer array nums, move all 0's to the end of it while maintaining the relative order of the non-zero elements.
 
